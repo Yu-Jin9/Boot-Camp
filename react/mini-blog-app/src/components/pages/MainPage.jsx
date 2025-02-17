@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom"; //하이퍼링크-바로가기
 import styled from "styled-components";
 import Button from "../ui/Button";
